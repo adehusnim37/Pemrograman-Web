@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <div id="datanya">
+        <script>
+            for (var i=0;i<5;i++){
+                console.log("ulang saya bernilai " +i);
+            }
+            a = 10;
+            while (a < 20){
+                console.log("ketika saya bernilai " + a);
+                a++;
+            }
+
+
+            var mobil_indonesia = ["avanza","xenia","esemka"];
+            mobil_indonesia.push("esempe");
+            var mobil_lama = mobil_indonesia.push("esempe");
+
+            var print, iterasi;
+            print = "<ul>";
+            for (iterasi=0;iterasi<mobil_indonesia.length;iterasi++){
+                print += "<li>"+mobil_indonesia[iterasi]+"</li>";
+            }
+            print += "</ul>";
+        </script>
+    </div>
+
+</body>
+</html>

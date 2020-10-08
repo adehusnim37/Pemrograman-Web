@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Memanipulasi Jquery DOM</title>
+</head>
+<body>
+    <h1>Kemana kamu akan pergi?</h1>
+    <ul class="pilihankota">
+        <li> Surabaya </li>
+        <li> Sidoarjo </li>
+        <li> Malang </li>
+    </ul>
+
+<script src="jquery-3.5.1.min.js"></script>
+<script>
+    $(document).ready(function (){
+        var kotax = $('<li>kotaxu</li>');
+        $('.pilihankota').prepend(kotax);
+
+        var subjudul = $('<h2>Pilih destinasimu ke luar kota yuks</h2>');
+        $('.pilihankota').before(subjudul);
+        
+        var lptas = $('<li>ptaszi</li>');
+        $('.pilihankota').append(lptas);
+    });
+</script>
+</body>
+</html>
