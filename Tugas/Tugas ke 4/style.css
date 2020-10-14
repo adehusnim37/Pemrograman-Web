@@ -1,0 +1,361 @@
+@charset "utf-8";
+
+body{
+    background-color: azure;
+    margin: 0px;
+    padding: 0px;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+/*.under{
+    width: auto;
+    height: auto;
+}*/
+
+section{
+    width: 100%;
+    height: 95vh;
+    background-image: url("bgimage/bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    background-color: white;
+    box-shadow: 2px 2px 12px rgba(0,0,0,0.2);
+    padding: 0px 5%;
+}
+
+nav ul{
+    display: flex;
+}
+
+nav ul li a{
+    margin: 30px;
+    font-family: "Myriad Pro";
+    color: black;
+    font-size: 15px;
+    font-weight:700 ;
+}
+
+.logo{
+    font-family: Broadway;
+    color: black;
+    font-size: 22px;
+}
+
+.home{
+    font-weight: bold;
+    color: dodgerblue;
+}
+
+.textbox p:nth-child(1){
+    font-family: Calibri;
+    font-weight: bold;
+    color: #6d6d6d;
+    font-size: 22px;
+}
+
+.textbox p:nth-child(2){
+    font-family: Calibri;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: #1a1a1a;
+    font-size: 60px;
+}
+
+.textbox p:nth-child(3){
+    font-family: "Myriad Pro";
+    color: #403e3e;
+    font-size: 30px;
+    line-height: 30px;
+}
+
+.textbox p{
+    margin: 45px 0px 25px;
+    line-height: 0px;
+}
+
+.textbox{
+    position: absolute;
+    left: 13%;
+    top: 42%;
+    transform: translate(-13%,42%);
+}
+
+.textbox button{
+    width: auto px;
+    height: 50px;
+    border-radius: 10px;
+    font-family: Calibri;
+    font-weight: bold;
+    font-size: 14px;
+    outline: none;
+    margin: 0px 10px;
+}
+
+.hubsaya{
+    border: 2px solid #373636;
+    color: #373636;
+}
+
+.downsaya{
+    background-color: #0b0b0b;
+    color: white;
+    border: none;
+}
+
+button:active{
+    transform:scale(1.1);
+}
+
+.model{
+    height: 800px;
+    position: absolute;
+    bottom: 40 px;
+    left:70%;
+    transform: translateX(-70%);
+}
+
+.tentangsaya{
+    width: 80%;
+    height: 330px;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 2px 2px 12px rgba(0,0,0,0.2);
+    display: flex;
+    margin: -7% auto 20px auto;
+    position: relative;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.tentangsaya img{
+    height: 250px;
+    width: 150px;
+}
+
+.tentangsayatext {
+    width: 550px;
+}
+
+.tentangsayatext p:nth-child(1){
+    color: #403e3e;
+    font-family: "Myriad Pro";
+    font-weight: bold;
+    font-size: 23px;
+    line-height: 0px;
+}
+
+.tentangsayatext p:nth-child(2){
+    color: #3e3d3d;
+    font-family: "Myriad Pro";
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 5px;
+}
+
+.tentangsayatext p:nth-child(3),.tentangsayatext p:nth-child(4){
+    color: #3e3d3d;
+    font-family: Calibri;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.tentangsayatext button{
+    width: 120px;
+    height: 40px;
+    color:#ffffff;
+    outline: none;
+    border: none;
+    font-family: Calibri;
+    background-color: #262525;
+}
+
+.service{
+    height: 600px;
+    background-color: #ffffff;
+    padding: 2% 10% 0px 10%;
+}
+
+.servicetext p:nth-child(1){
+    font-family: Calibri;
+    font-weight: bold;
+    color: #3e3d3d;
+    font-size: 30px;
+    line-height: 0px;
+}
+.servicetext p:nth-child(2){
+    font-family: Calibri;
+    font-weight: bold;
+    color: #3e3d3d;
+    font-size: 15px;
+    line-height: 5px;
+}
+
+.servicetext p:nth-child(3){
+    font-family: Calibri;
+    color: #7e7d7d;
+    font-size: 15px;
+}
+
+.servicetext{
+    width: 500px;
+    margin: 50px 0px;
+}
+
+.boxcontainer{
+    display: flex;
+    justify-content: space-between;
+}
+
+.box1,.box2,.box3{
+    width: 300px;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    box-shadow: 2px 2px 12px rgba(0,0,0,0.3);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.box1{
+    background-image: url("images/services-1.png");
+}
+
+.box2{
+    background-image: url("images/services-2.png");
+}
+
+.box3{
+    background-image: url("images/servies-3.png");
+}
+
+.box1 span,.box2 span, .box3 span{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-family: Calibri;
+}
+
+.box1 p:nth-child(2), .box2 p:nth-child(2), .box3 p:nth-child(2){
+    color: white;
+    font-family: Calibri;
+    font-size: 23px;
+    line-height: 0px;
+}
+
+.box1 p:nth-child(3), .box2 p:nth-child(3), .box3 p:nth-child(3){
+    color: white;
+    font-family: Calibri;
+    text-align: center;
+    width: 230px;
+    margin: 0px 0px 20px 0px;
+    color: #8f8f8f;
+}
+
+.box1 button,.box2 button,.box3 button{
+    width: 100px;
+    height: 30px;
+}
+
+.kontaksaya{
+    width: 100%;
+    height: 280px;
+    background-image: url("images/project in your mind.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.kontaksaya p{
+    color: white;
+    font-size: 30px;
+    font-family: Calibri;
+    font-weight: bold;
+    border-bottom: 2px solid white;
+}
+
+.kontaksaya button{
+    width: 200px;
+    height: 50px;
+    background-color: whitesmoke;
+    outline: none;
+    border: none;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+footer{
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+footer p{
+    font-family: Calibri;
+}
+
+footer p:nth-child(1){
+    font-size: 30px;
+    font-weight: bold;
+    color: #191919;
+    line-height: 10px;
+}
+
+footer p:nth-child(2){
+    font-size: 16px;
+    width: 600px;
+    color: #7e7d7d;
+    text-align: center;
+}
+
+.social-icons a{
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e6e3e3;
+    margin: 20px 10px;
+    border-radius: 50%;
+}
+
+.social-icons{
+    display: flex;
+}
+
+.copyright{
+    color: #565555;
+    font-size: 15px;
+    position: absolute;
+    left: 50%;
+    bottom: 10px;
+    transform: translateX(-50%);
+}
