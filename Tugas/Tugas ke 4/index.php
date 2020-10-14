@@ -10,17 +10,6 @@
 
 <?php
 $nama = "Ade Husni Mubarrok";
-$nohp = "085850660031";
-$email = "yunusismail99@gmail.com";
-$ig = "yunusismail_";
-$line = "yunus799";
-$github = "YunusOktaviantoIsmail";
-$youtube = "Yunus Ismail";
-$ttl = "Surabaya, 07 Oktober 1999";
-$gender = "Laki-laki";
-$address = "Jl. Jambangan 1A/15";
-$religion = "Islam";
-$citizen = "Indonesia";
 ?>
 
 <section>
