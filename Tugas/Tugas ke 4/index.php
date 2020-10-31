@@ -88,24 +88,31 @@ $nama = "Ade Husni Mubarrok";
     </div>
 
     <div class="kontaksaya">
-        <p>Ada Projek dari kamu?</p>
-        <button> Hubungi saya</button>
+        <p>Ada Projek dari kamu?</p
+    <div class="container">
+        <?php
+        if(isset($_GET['pesan'])){
+            $pesan = $_GET['pesan'];
+            if($pesan == "sukses"){
+                echo "Data berhasil di input.";
+            }else{
+                echo "Data gagal di input.";
+            }
+        } ?>
+        <form action="kirimpesan.php" method="POST">
+            <label for="nama">Nama</label>
+            <input type="text" id="nama" name="nama" placeholder="Masukkan nama anda" required>
+
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" placeholder="Masukkan email anda" required>
+
+            <label for="pesan">Pesan</label>
+            <textarea id="pesan" name="pesan" placeholder="Tulis pesan disini" style="height:200px" required></textarea>
+
+            <button id="kirim"> Kirim </button>
+        </form>
+    </div><br>
     </div>
-    <footer>
-        <p><?php echo $nama ?></p>
-        <p>Lorem Ipsum telah menjadi standar contoh teks sejak tahun 1500an, saat seorang tukang cetak yang tidak dikenal mengambil sebuah kumpulan teks dan
-            mengacaknya untuk menjadi sebuah buku contoh huruf.</p>
-        <!--Social Media-->
-        <div class="social-icons">
-            <a href="#"><i class="fab fa-facebook"></i></a>
-            <a href="#"><i class="fab fa-twitter"></i></a>
-            <a href="#"><i class="fab fa-instagram"></i></a>
-            <a href="#"><i class="fab fa-youtube"></i></a>
-        </div>
-
-        <p class="copyright">Dilisensikan Oleh <?php echo $nama?></p>
-    </footer>
-</section>
-
 </body>
 </html>
+
