@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="42f198a9-6dce-4333-b5de-b862f876c4d1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/calculator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/path.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/Jquery DOM/.idea/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/Jquery DOM/.idea/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/Jquery DOM/.idea/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/Jquery DOM/.idea/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan 1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan 1/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan 1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan 1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan 1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan 1/Hello_World.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pertemuan 1/Hellow.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas/Tugas ke 2/tugas2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tugas/Tugas ke 2/tugas2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas/Tugas ke 4/Screenshot 2020-10-14 202223.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExpressNodejs/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ExpressNodejs/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course 1/file1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../course 1/file1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course 1/node.js" beforeDir="false" afterPath="$PROJECT_DIR$/../course 1/node.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1j6dcTfsDCtbOrpWM7Bch0Odv2b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="$APPLICATION_CONFIG_DIR$/node/node-v12.13.1-win-x64/node" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Kuliah Tapi Ngoding\Pemrograman Web\nodejs\calculator express" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.calculator.js">
+    <configuration name="bmiCalc.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/calculator express/bmiCalc.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="calculator.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/calculator express/calculator.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="calculator.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/calculator.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.calculator.js" />
+        <item itemvalue="JavaScript Debug.bmiCalc.html" />
+        <item itemvalue="JavaScript Debug.calculator.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42f198a9-6dce-4333-b5de-b862f876c4d1" name="Default Changelist" comment="" />
+      <created>1603128554774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603128554774</updated>
+      <workItem from="1603128555811" duration="598000" />
+      <workItem from="1603167780572" duration="3474000" />
+      <workItem from="1603172805281" duration="2592000" />
+      <workItem from="1603283840585" duration="609000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="262" key="FileChooserDialogImpl" timestamp="1603284450009">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="262" key="FileChooserDialogImpl/0.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603284450009" />
+    <state width="1899" height="348" key="GridCell.Tab.0.bottom" timestamp="1603217971577">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.0.bottom/0.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603217971577" />
+    <state width="1899" height="348" key="GridCell.Tab.0.center" timestamp="1603217971577">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.0.center/0.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603217971577" />
+    <state width="1899" height="348" key="GridCell.Tab.0.left" timestamp="1603217971577">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.0.left/0.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603217971577" />
+    <state width="1899" height="348" key="GridCell.Tab.0.right" timestamp="1603217971577">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.0.right/0.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603217971577" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1603217971577">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603217971577" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1603217971577">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.center/0.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603217971577" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1603217971577">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.left/0.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603217971577" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1603217971577">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.right/0.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603217971577" />
+    <state width="1899" height="348" key="GridCell.Tab.2.bottom" timestamp="1603217971577">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.2.bottom/0.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603217971577" />
+    <state width="1899" height="348" key="GridCell.Tab.2.center" timestamp="1603217971577">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.2.center/0.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603217971577" />
+    <state width="1899" height="348" key="GridCell.Tab.2.left" timestamp="1603217971577">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.2.left/0.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603217971577" />
+    <state width="1899" height="348" key="GridCell.Tab.2.right" timestamp="1603217971577">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.2.right/0.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603217971577" />
+  </component>
+</project>

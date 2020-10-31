@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "This intro for node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ade Husni M",
+  "license": "ISC",
+  "dependencies": {
+    "@s-a/serialnumber": "^1.0.1",
+    "express": "^4.17.1",
+    "generate-serial-number": "0.0.3",
+    "react-native-get-serial-number": "^1.0.7",
+    "superheroes": "^3.0.0"
+  }
+}
