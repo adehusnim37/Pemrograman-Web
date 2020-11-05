@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e3e2b87-530c-47e3-bc26-3046e0085d91" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../UTS/add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS/connection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS/delete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS/insert.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS/list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTS/update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addKategori.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/connection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deleteKategori.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/editKategori.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/insert.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kategori.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nodejs/Final Project/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nodejs/Final Project/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nodejs/Final Project/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nodejs/Final Project/public/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nodejs/Final Project/views/about.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nodejs/Final Project/views/compose.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nodejs/Final Project/views/contact.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nodejs/Final Project/views/home.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nodejs/Final Project/views/partials/footer.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nodejs/Final Project/views/partials/header.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nodejs/Final Project/views/post.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/Jquery DOM/.idea/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/Jquery DOM/.idea/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/Jquery DOM/.idea/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/Jquery DOM/.idea/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../course2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejswithnode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ejswithnode/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7" />
+  <component name="ProjectId" id="1jqk4xuTmTy3v5WanvbaLu63AGW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../UTS" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.kategori.php">
+    <configuration name="connection.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/UTSPhp/connection.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="home.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/UTSPhp/home.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="kategori.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/UTSPhp/kategori.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.kategori.php" />
+        <item itemvalue="JavaScript Debug.home.php" />
+        <item itemvalue="JavaScript Debug.connection.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e3e2b87-530c-47e3-bc26-3046e0085d91" name="Default Changelist" comment="" />
+      <created>1604538821649</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604538821649</updated>
+      <workItem from="1604538822704" duration="2554000" />
+      <workItem from="1604572700881" duration="17545000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="667" y="163" key="#PHP" timestamp="1604572737938">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="163" key="#PHP/0.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604572737938" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604587391526">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604587391526" />
+    <state x="740" y="-785" key="FileChooserDialogImpl" timestamp="1604538915507">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="740" y="-785" key="FileChooserDialogImpl/0.-1080.1920.1040/0.0.1920.1040@0.-1080.1920.1040" timestamp="1604538915507" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1604588891020">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/0.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604588891020" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1604578970575">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="890" y="-838" key="SettingsEditor/0.-1080.1920.1040/0.0.1920.1040@0.-1080.1920.1040" timestamp="1604578106399" />
+    <state x="461" y="165" key="SettingsEditor/0.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604578970575" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1604578976589">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604578976589" />
+  </component>
+</project>

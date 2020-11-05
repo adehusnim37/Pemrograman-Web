@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e811972e-ad80-415a-9aa9-ea9a2f9baee1" name="Default Changelist" comment="">
+    <list default="true" id="97fe6df3-82b5-42b2-a827-82d4c456ccd8" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../../nodejs/Final Project/app.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../nodejs/Final Project/package-lock.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../nodejs/Final Project/package.json" afterDir="false" />
@@ -33,6 +33,7 @@
       <change afterPath="$PROJECT_DIR$/../../nodejs/Final Project/views/post.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Course/Jquery DOM/.idea/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/Jquery DOM/.idea/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Course/Jquery DOM/.idea/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/Jquery DOM/.idea/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../course2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ejswithnode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ejswithnode/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,8 +47,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7" />
-  <component name="ProjectId" id="1j0fadcmC6w1slsrl8t5oV4Fs7n" />
+  <component name="ProjectId" id="1jpMLtURdas5pD8vqTDTnkULpvF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -56,21 +56,19 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.idea" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../course2" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e811972e-ad80-415a-9aa9-ea9a2f9baee1" name="Default Changelist" comment="" />
-      <created>1602945996329</created>
+      <changelist id="97fe6df3-82b5-42b2-a827-82d4c456ccd8" name="Default Changelist" comment="" />
+      <created>1604496526762</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1602945996329</updated>
-      <workItem from="1602945997457" duration="931000" />
-      <workItem from="1602947374828" duration="2478000" />
-      <workItem from="1603018431785" duration="4696000" />
-      <workItem from="1604496549138" duration="551000" />
+      <updated>1604496526762</updated>
+      <workItem from="1604496527820" duration="20000" />
+      <workItem from="1604497180321" duration="301000" />
     </task>
     <servers />
   </component>
@@ -87,19 +85,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="667" y="163" key="#PHP" timestamp="1602947309885">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1604497481042">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="667" y="163" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1602947309885" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1604497103722">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604497103722" />
-    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1602946082345">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602946082345" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604497481042" />
   </component>
 </project>

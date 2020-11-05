@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b40a5e54-09c5-4107-869f-4083f3563bfa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/connection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/insert.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTSPhp/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTSPhp/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTSPhp/add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTSPhp/addKategori.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTSPhp/connection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTSPhp/delete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTSPhp/deleteKategori.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTSPhp/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTSPhp/editKategori.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTSPhp/home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTSPhp/insert.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UTSPhp/kategori.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nodejs/Final Project/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nodejs/Final Project/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nodejs/Final Project/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nodejs/Final Project/public/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nodejs/Final Project/views/about.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nodejs/Final Project/views/compose.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nodejs/Final Project/views/contact.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nodejs/Final Project/views/home.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nodejs/Final Project/views/partials/footer.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nodejs/Final Project/views/partials/header.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nodejs/Final Project/views/post.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/Jquery DOM/.idea/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/Jquery DOM/.idea/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/Jquery DOM/.idea/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/Jquery DOM/.idea/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../course2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejswithnode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ejswithnode/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7" />
+  <component name="ProjectId" id="1jpOIABCuF314Th2p4eZ9AxL3LK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.connection.php">
+    <configuration name="add.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/UTS/add.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="connection.php" type="JavascriptDebugType" uri="http://localhost:63342/UTS/connection.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="edit.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/UTS/edit.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="list.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/UTS/list.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="connection.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/connection.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.connection.php" />
+      <item itemvalue="JavaScript Debug.list.php" />
+      <item itemvalue="JavaScript Debug.add.php" />
+      <item itemvalue="JavaScript Debug.edit.php" />
+      <item itemvalue="PHP Script.connection.php" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.list.php" />
+        <item itemvalue="JavaScript Debug.edit.php" />
+        <item itemvalue="JavaScript Debug.add.php" />
+        <item itemvalue="PHP Script.connection.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b40a5e54-09c5-4107-869f-4083f3563bfa" name="Default Changelist" comment="" />
+      <created>1604497483846</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604497483846</updated>
+      <workItem from="1604497484901" duration="11830000" />
+      <workItem from="1604538589396" duration="231000" />
+      <workItem from="1604538918397" duration="1208000" />
+      <workItem from="1604572700881" duration="1671000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="667" y="163" key="#PHP" timestamp="1604507322229">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="163" key="#PHP/0.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604507322229" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604507307526">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604507307526" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1604538817149">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604538817149" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1604538200646">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604538200646" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1604538200646">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604538200646" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1604538200646">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604538200646" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1604538200646">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604538200646" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1604512892513">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/0.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604512892513" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1604507280911">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604507280911" />
+  </component>
+</project>
