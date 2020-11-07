@@ -1,0 +1,14 @@
+<%- include("partials/header") -%>
+<h1> Home Route</h1>
+<p> <%= homeStartingContent %> </p>
+
+<% postditampilkan.forEach(function (inputans){%>
+    <div class="itempost" >
+        <h1><%= inputans.judul %></h1>
+        <p>
+            <%= inputans.isi.substring(0,10) + "..."%> <!--truncare(singkat) penjelasan dalam isi-->
+            <a href="/posts/<%=inputans.judul%>"> Read More </a>
+        </p>
+    </div>
+    <%})%>
+<%- include("partials/footer") -%>
