@@ -25,15 +25,6 @@
       <change beforePath="$PROJECT_DIR$/../../Php/UTS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Php/UTS/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Php/UTSPhp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Php/UTSPhp/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ejswithnode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ejswithnode/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/about.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/about.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/compose.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/compose.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/contact.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/contact.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/home.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/home.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/partials/header.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/partials/header.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/post.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/post.ejs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,6 +88,7 @@
       <workItem from="1604591179636" duration="118000" />
       <workItem from="1604758715417" duration="2615000" />
       <workItem from="1604764085665" duration="3785000" />
+      <workItem from="1605281387193" duration="25000" />
     </task>
     <servers />
   </component>
@@ -123,6 +115,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604160751884" />
+    <state x="740" y="262" key="FileChooserDialogImpl" timestamp="1605281408112">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="262" key="FileChooserDialogImpl/0.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605281408112" />
     <state width="1899" height="279" key="GridCell.Tab.0.bottom" timestamp="1604768840968">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
