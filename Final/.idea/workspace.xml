@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="26b55022-2a79-4360-ba32-4d92cb75b4bc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Course/Jquery DOM/.idea/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Course/Jquery DOM/.idea/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Course/Jquery DOM/.idea/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Course/Jquery DOM/.idea/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PKL/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PKL/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PKL/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PKL/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PKL/Dark/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/../PKL/Dark/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PKL/Dark/add_new_event.html" beforeDir="false" afterPath="$PROJECT_DIR$/../PKL/Dark/add_new_event.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PKL/Dark/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../PKL/Dark/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Php/UTS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Php/UTS/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Php/UTSPhp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Php/UTSPhp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ejswithnode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ejswithnode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ejswithnode/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ejswithnode/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ejswithnode/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ejswithnode/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ejswithnode/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ejswithnode/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ejswithnode/public/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../ejswithnode/public/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ejswithnode/views/list.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/../ejswithnode/views/list.ejs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1kpmP3BWcmC7a6Tezw7Bdj6FPoR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26b55022-2a79-4360-ba32-4d92cb75b4bc" name="Default Changelist" comment="" />
+      <created>1606405880543</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606405880543</updated>
+      <workItem from="1606405881771" duration="752000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606406455283">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606406455283" />
+  </component>
+</project>
