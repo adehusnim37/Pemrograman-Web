@@ -121,10 +121,11 @@ button:active{
 }
 
 .model{
-    height: 800px;
+    height: 700px;
+    width: 580px;
     position: absolute;
     bottom: 40 px;
-    left:70%;
+    left:80%;
     transform: translateX(-70%);
 }
 
@@ -408,3 +409,4 @@ label {
     color: white;
 
 }
+

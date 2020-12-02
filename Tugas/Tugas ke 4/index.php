@@ -4,7 +4,23 @@
     <meta charset="UTF-8">
     <title>Pemrograman Web</title>
     <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="Jquery/jquery-3.5.1.min.js"></script>
+    <script>
+        $(document).ready(function (){
+            $('#provinsi').change(function (){
+                var provinsi_id = $(this).val();
 
+                $.ajax({
+                   type: 'POST',
+                    url: 'kota.php',
+                    data: 'prov_id='+provinsi_id,
+                    success: function (response){
+                       $('#kota').html(response);
+                    }
+                });
+            })
+        });
+    </script>
 </head>
 <body>
 
@@ -34,7 +50,7 @@ $nama = "Ade Husni Mubarrok";
         <button class="downsaya">Ingin tau pendidikan saya?</button>
     </div>
     <!--Model-->
-    <img src="images/model2.jpg" class="model" alt="model">
+    <img id="judulimg" src="images/model2.jpg" class="model" alt="model">
 </section>
 <!--About Section-->
 <section>
@@ -102,6 +118,24 @@ $nama = "Ade Husni Mubarrok";
         <form action="kirimpesan.php" method="POST">
             <label for="nama">Nama</label>
             <input type="text" id="nama" name="nama" placeholder="Masukkan nama anda" required>
+
+            <label for="Provinsi">Provinsi</label>
+            <?php include "connection.php";
+            $sql_provinsi = mysqli_query($koneksi, 'select * from provinsi');
+            ?>
+            <select name="provinsi" id="provinsi">
+                <option>Pilih Provinsi anda</option>
+                <?php while ($row_provinsi = mysqli_fetch_array($sql_provinsi)) {?>
+                    <option value="<?php echo $row_provinsi['id'] ?>">
+                        <?php echo $row_provinsi['nama_prov']?>
+                    </option>
+                <?php } ?>
+            </select><br />
+            <label for=""kota >Kota</label>
+            <select name="kota" id="kota">
+                <option>Pilih Kota anda</option>
+                <select></select>
+            </select>
 
             <label for="email">Email</label>
             <input type="email" id="email" name="email" placeholder="Masukkan email anda" required>
