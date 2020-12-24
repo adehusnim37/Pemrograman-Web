@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f6631397-6e86-41ca-9eef-89eddc07a2af" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Course/Jquery DOM/.idea/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/Jquery DOM/.idea/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course/Jquery DOM/.idea/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course/Jquery DOM/.idea/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PKL/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PKL/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PKL/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PKL/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PKL/Dark/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../PKL/Dark/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PKL/Dark/add_new_event.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../PKL/Dark/add_new_event.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PKL/Dark/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../PKL/Dark/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Php/UTS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Php/UTS/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Php/UTSPhp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Php/UTSPhp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejswithnode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ejswithnode/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1kI0RnW5XYlNuBl98WLb3wxfuYZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.19.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.19.0" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/app.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.app.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6631397-6e86-41ca-9eef-89eddc07a2af" name="Default Changelist" comment="" />
+      <created>1605372792839</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605372792839</updated>
+      <workItem from="1605372794000" duration="297000" />
+      <workItem from="1605373256857" duration="178000" />
+      <workItem from="1605373594863" duration="3766000" />
+      <workItem from="1605413691068" duration="10545000" />
+      <workItem from="1605499159998" duration="4695000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1605535717908">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605535717908" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1605535726679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605535726679" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1605535726679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605535726679" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1605535726679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605535726679" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1605535726679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605535726679" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1605374470763">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.-1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605374470763" />
+  </component>
+</project>
