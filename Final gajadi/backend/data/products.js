@@ -8,8 +8,8 @@ const products = [
     category: 'Electronics',
     price: 89.99,
     countInStock: 3,
-    rating: 0,
-    numReviews: 0,
+    rating: 5,
+    numReviews: 3,
   },
   {
     name: 'iPhone 11 Pro 256GB Memory',
@@ -20,7 +20,7 @@ const products = [
     category: 'Electronics',
     price: 599.99,
     countInStock: 10,
-    rating: 0,
+    rating: 5,
     numReviews: 0,
   },
   {
@@ -31,8 +31,8 @@ const products = [
     brand: 'Cannon',
     category: 'Electronics',
     price: 929.99,
-    countInStock: 0,
-    rating: 0,
+    countInStock: 10,
+    rating: 5,
     numReviews: 0,
   },
   {
@@ -44,7 +44,7 @@ const products = [
     category: 'Electronics',
     price: 399.99,
     countInStock: 10,
-    rating: 0,
+    rating: 5,
     numReviews: 0,
   },
   {
@@ -56,7 +56,7 @@ const products = [
     category: 'Electronics',
     price: 49.99,
     countInStock: 7,
-    rating: 0,
+    rating: 5,
     numReviews: 0,
   },
   {
@@ -68,7 +68,7 @@ const products = [
     category: 'Electronics',
     price: 29.99,
     countInStock: 0,
-    rating: 0,
+    rating: 5,
     numReviews: 0,
   },
 ]
